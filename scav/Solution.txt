@@ -1,0 +1,8 @@
+1. Crossword Puzzle: Filling in known answers creates a bit.ly link that leads to a Google Doc.
+2. Google doc has Title: Polar Bear in a Snow Storm (commonly just a white piece of paper).
+   Player must find hidden white text (the bear if you will), and translate the language to English.
+   It translate: 'This is a red herring. History has the answer. Make sure you are signed in'
+3. History, implying the edit history of the document, refers to a previous image put in the doc.
+   It is an image (not copy-able) of Wingding text. After translation, it implies to use a command
+   from BBhelp to 'look closer at BotBot's face' (BBfetchpfp)
+4. After getting the closeup of BotBot's pfp, a URL appears! It is a link to the BotBot wiki page.

@@ -1,0 +1,12 @@
+#ideas for scanger hunt
+
+QR code
+youtube video
+wingdings translation DONE
+caeser cipher
+hidden botbot command
+GOOD: hide link in part of BotBot profile pic, need to use BBfetchpfp to find DONE
+
+
+Current Path:
+    Crossword -> Polar Bear -> Wingdings -> BBfetchpfp -> Wiki -> BBreveal -> 
