@@ -1,0 +1,1 @@
+DISCORD_BOT_SECRET = "your key here"
