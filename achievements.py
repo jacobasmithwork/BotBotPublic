@@ -19,7 +19,7 @@ uuAchievements = {
     "Greeter" : "greeter",
     "Nosy" : "nosy",
     "CIA" : "cia",
-    "Shitposter" : "shitposter",
+    "Blurrer" : "blurrer",
     "Share the Wealth" : "share",
     "Face Snatcher" : "snatcher",
     "Idea Generator" : "idea",
@@ -62,7 +62,7 @@ wuAchievements = {
     "Lucky Guess" : "lucky",
     "Smart Cookie" : "cookie",
 }
-#Check Achievements and Send awarded acheivements to channel - Consider Throttling ##MAKE IT ASYNC 
+#Check Achievements and Send awarded acheivements to channel - Consider Throttling 
 def checkAchievements(users, hm, guessnum, wotd, user):
     user = str(user)
     if not "achievements" in users[user]:
@@ -165,9 +165,9 @@ def idea(users, user):
     else:
         return False
     
-# have used the BBshitpost command - shitposter
-def shitposter(users, user):
-    if( "BBshitpost" in users[user]["commands"]):
+# have used the BBblur command - blurrer
+def blurrer(users, user):
+    if( "BBblur" in users[user]["commands"]):
         return True
     else:
         return False
